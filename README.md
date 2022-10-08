@@ -5,6 +5,8 @@
 2. Revisar la información sobre el uso de REVEAL.JS en https://revealjs.com/ ; sección CONTENT
 3. Trabajar de manera particular en el archivo index.html
 4. Los organizadores gráficos pueden ser colocados, uno por cada presentación (**slide**)
+
 Ingtegrantes Grupo 13
+
 + Pedro Aponte
 + Paulo Jara
